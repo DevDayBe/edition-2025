@@ -243,7 +243,7 @@ Submission → Automated Checks → Manual Review → Approved/Changes Requested
 ## Besoin d'Aide ?
 
 ### Questions Générales
-📧 Contactez: contact@devday.be
+📧 Contactez: team@devday.be
 
 ### Questions Techniques (Git, GitHub, etc.)
 - Consultez la [documentation GitHub](https://docs.github.com)
@@ -301,7 +301,7 @@ A: 24-48 heures en moyenne pendant l'événement.
 A: Bien sûr! Créez une branche par session.
 
 **Q: Et si je n'utilise pas Git?**  
-A: Écrivez à contact@devday.be pour des options alternatives.
+A: Écrivez à team@devday.be pour des options alternatives.
 
 **Q: Puis-je partager du contenu vidéo?**  
 A: Oui, mais hébergé externement (YouTube, Vimeo) avec lien.

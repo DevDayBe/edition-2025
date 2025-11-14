@@ -171,7 +171,7 @@ Lisez:
 
 ### Support Direct
 
-📧 **Email**: contact@devday.be
+📧 **Email**: team@devday.be
 
 ---
 
@@ -274,7 +274,7 @@ Choisis ton rôle ci-dessus et commence!
 
 N'hésite pas à:
 - 💬 Ouvrir une [Issue GitHub](https://github.com/DevDayBe/edition-2025/issues)
-- 📧 Nous contacter: contact@devday.be
+- 📧 Nous contacter: team@devday.be
 - 🤝 Rejoindre la communauté DevDay
 
 **Heureux de te voir contribuer! 🚀**

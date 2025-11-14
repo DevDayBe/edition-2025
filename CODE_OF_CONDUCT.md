@@ -30,7 +30,7 @@ Les responsables du projet ont le droit et la responsabilité de supprimer, modi
 
 ## Application
 
-Les cas de comportement abusif, de harcèlement ou autrement inacceptable peuvent être signalés en contactant l'équipe du projet à [contact@devday.be]. Toutes les plaintes seront examinées et enquêtées et aboutiront à une réponse jugée nécessaire et appropriée aux circonstances. L'équipe du projet est obligée de maintenir la confidentialité à l'égard du déclarant d'un incident.
+Les cas de comportement abusif, de harcèlement ou autrement inacceptable peuvent être signalés en contactant l'équipe du projet à [team@devday.be]. Toutes les plaintes seront examinées et enquêtées et aboutiront à une réponse jugée nécessaire et appropriée aux circonstances. L'équipe du projet est obligée de maintenir la confidentialité à l'égard du déclarant d'un incident.
 
 ## Attribution
 

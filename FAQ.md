@@ -55,10 +55,10 @@ Pour les gros fichiers (vidéos), utilisez Git LFS ou hébergement externe avec 
 **R:** 24-48 heures en moyenne pendant l'événement. Pendant les périodes calmes, cela peut être plus rapide.
 
 ### Q: Je n'utilise pas Git, comment faire?
-**R:** Écrivez à `contact@devday.be` pour des alternatives (email, formulaire, etc.)
+**R:** Écrivez à `team@devday.be` pour des alternatives (email, formulaire, etc.)
 
 ### Q: Puis-je ajouter des sponsorships ou pubs?
-**R:** Pas sans accord préalable avec l'équipe d'organisation. Demandez à `contact@devday.be`
+**R:** Pas sans accord préalable avec l'équipe d'organisation. Demandez à `team@devday.be`
 
 ### Q: Quel license utiliser pour mes slides?
 **R:** Par défaut: Creative Commons Attribution 4.0 (CC BY 4.0). Vous pouvez en choisir une autre si vous le souhaitez.
@@ -72,7 +72,7 @@ Pour les gros fichiers (vidéos), utilisez Git LFS ou hébergement externe avec 
 1. Créez un compte sur github.com
 2. Lisez le guide GitHub: https://docs.github.com
 3. Demandez de l'aide dans les Issues
-4. Contactez: contact@devday.be
+4. Contactez: team@devday.be
 
 ### Q: Qu'est-ce qu'une Pull Request?
 **R:** Une PR est une demande pour ajouter vos changements au repository. Elle sera révisée et approuvée avant d'être fusionnée.
@@ -127,10 +127,10 @@ Pour les gros fichiers (vidéos), utilisez Git LFS ou hébergement externe avec 
 **R:** L'équipe enquêtera et prendra des mesures appropriées, jusqu'à l'exclusion du projet.
 
 ### Q: Comment signaler une violation?
-**R:** Contactez contact@devday.be avec détails et preuves.
+**R:** Contactez team@devday.be avec détails et preuves.
 
 ### Q: Je ne suis pas d'accord avec le Code of Conduct?
-**R:** Les règles sont là pour protéger tout le monde. Consultez contact@devday.be si vous avez des préoccupations.
+**R:** Les règles sont là pour protéger tout le monde. Consultez team@devday.be si vous avez des préoccupations.
 
 ---
 
@@ -186,7 +186,7 @@ Pour les gros fichiers (vidéos), utilisez Git LFS ou hébergement externe avec 
 
 3. 💬 Ouvrez une nouvelle [Issue](https://github.com/DevDayBe/edition-2025/issues/new?template=question.md)
 
-4. 📧 Contactez: contact@devday.be
+4. 📧 Contactez: team@devday.be
 
 ---
 

@@ -117,7 +117,7 @@ Vous êtes speaker à DevDay 2025 ? **Partagez vos ressources!**
 
 ## 📞 Contact
 
-- **Questions d'organisation**: 📧 contact@devday.be
+- **Questions d'organisation**: 📧 team@devday.be
 - **Issues technique**: [GitHub Issues](https://github.com/DevDayBe/edition-2025/issues)
 - **Site officiel**: 🌐 [devday.be](https://devday.be)
 - **Slack DevDay**: [Rejoignez notre communauté](https://devday.be/community)

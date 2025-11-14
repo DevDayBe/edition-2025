@@ -54,7 +54,7 @@ Généralement trouvées sur devday.be:
 - **Site**: https://devday.be/
 - **LinkedIn**: [À chercher]
 - **Twitter/X**: [À chercher]
-- **Email**: contact@devday.be
+- **Email**: team@devday.be
 
 ---
 

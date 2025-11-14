@@ -64,7 +64,7 @@ Lire [ORGANIZERS_GUIDE.md](ORGANIZERS_GUIDE.md)
 | Toutes les sessions | `sessions/` |
 | Signaler un bug | [Issues](https://github.com/DevDayBe/edition-2025/issues) |
 | Site DevDay | https://devday.be |
-| Contact | contact@devday.be |
+| Contact | team@devday.be |
 
 ---
 
@@ -80,5 +80,5 @@ Oui! Setup complet. [Détails →](SETUP_COMPLETE.md)
 
 ---
 
-**Questions?** Consultez [FAQ.md](FAQ.md) ou contactez contact@devday.be
+**Questions?** Consultez [FAQ.md](FAQ.md) ou contactez team@devday.be
 

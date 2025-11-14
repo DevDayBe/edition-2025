@@ -42,7 +42,7 @@ Ce document est destiné aux organisateurs et modérateurs du repository.
 1. Avertir le contributeur
 2. Demander les modifications
 3. Bloquer/Rejeter si nécessaire
-4. Reporter les violations graves à contact@devday.be
+4. Reporter les violations graves à team@devday.be
 
 ### 3. Gestion des Issues
 
@@ -128,7 +128,7 @@ Remercier le contributeur
 4. **Blocage** - Pour violations graves
 5. **Exclusion** - Violateurs du Code of Conduct
 
-### Escalade à contact@devday.be
+### Escalade à team@devday.be
 
 Situations nécessitant escalade:
 - Menaces ou harcèlement
@@ -208,7 +208,7 @@ Suivre et documenter:
 |-------|-------|---------|
 | GitHub Issues | Questions techniques | Normal |
 | GitHub PR Comments | Feedback sur contributions | Normal |
-| Email (contact@devday.be) | Escalades graves | ASAP |
+| Email (team@devday.be) | Escalades graves | ASAP |
 | Slack/Chat | Discussions rapides | Variable |
 | Réunions équipe | Planification | Planning |
 
@@ -361,7 +361,7 @@ Décisions Importantes → Contact organization lead
 
 ## Questions?
 
-Contactez: contact@devday.be
+Contactez: team@devday.be
 
 **Merci pour votre implication dans DevDay 2025!** 🙌
 
