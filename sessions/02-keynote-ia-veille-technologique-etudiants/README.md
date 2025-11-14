@@ -38,7 +38,7 @@ Dans cette keynote, nous explorerons la vision actuelle de l’intelligence arti
 * ✶ [Marie Laure Bonnaud](https://www.linkedin.com/in/mlbonnaud/en/) – Formatrice IA Générative. Ses vidéos pédagogiques sont bluffantes de clarté.
 * ⚡ [Théophile Burnet](https://www.linkedin.com/in/th%C3%A9ophile-burnet/) ⚡️ – Consultant IA. Il partage des approches simples et efficaces pour passer à l’action.
 * ✶ [Anne-Lie Biwand](https://www.linkedin.com/in/anne-lie-biwand-088896234/) – Spécialiste IA. Ses visuels synthétiques sont de vraies leçons d’efficacité cognitive.
-* ✶ [Stéphanie Courgey](https://www.linkedin.com/in/stephaniecourgey/?locale=en_US) – Formatice IA souveraine. Elle aborde l’IA avec recul, nuance et esprit critique.
+* ✶ [Stéphanie Courgey](https://www.linkedin.com/in/stephaniecourgey/?locale=en_US) – Formatrice IA souveraine. Elle aborde l’IA avec recul, nuance et esprit critique.
 * ⚡ [Justine Morin]() – Formatrice business IA. Ses conseils sont francs, directs et immédiatement actionnables.
 * ⚡ [Brice Trophardy](https://www.linkedin.com/in/bricetrophardy/?locale=en_US) – Auteur de Superproductif (Eyrolles). IA, contenu, prospection : il allie méthode et impact.
 *  [Mael Equille](https://www.linkedin.com/in/coach-ia-automatisation/) ⏱ – Coach IA & automatisation. Ses astuces d’automatisation sont d’une efficacité redoutable.
