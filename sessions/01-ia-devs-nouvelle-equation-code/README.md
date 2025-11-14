@@ -32,12 +32,10 @@ L'objectif : montrer comment chaque développeur peut s'approprier ces nouveaux 
 ## 📚 Ressources
 
 ### Slides
-- Slides PDF: `[À ajouter par le speaker]`
-- Slides PowerPoint: `[À ajouter par le speaker]`
+- Slides PowerPoint: [OneDrive](https://1drv.ms/p/c/0ee4bd0f5ea745c6/IQAIjcseFCVYSaPPWsIyCnquAZQB39CTrfZ1tAue3AhkwJk?e=R421oB)
 
 ### Démos & Code
-- Demo 1: `[Lien ou fichier]`
-- Code samples: `[Lien ou dossier]`
+- Code samples: https://github.com/davrous/SpaceInvadersWithLeaderboardAzureReady
 
 ### Références & Articles
 - Model Context Protocol (MCP): https://modelcontextprotocol.io
@@ -45,9 +43,15 @@ L'objectif : montrer comment chaque développeur peut s'approprier ces nouveaux 
 - Microsoft AI Engineering: https://www.microsoft.com/en-us/ai
 
 ### Outils & Technologies
-- Visual Studio Code with GitHub Copilot
-- Model Context Protocols (MCP)
-- Azure OpenAI Service
+- Liste de serveurs MCP: https://github.com/mcp 
+- [Azure MCP Server](https://mcp.azure.com/detail/azure)
+- [AI Toolkit](https://marketplace.visualstudio.com/items?itemName=ms-windows-ai-studio.windows-ai-studio)
+- [GitHub Spec Kit](https://speckit.org/) 
+- [Azure CLI Tools](https://marketplace.visualstudio.com/items?itemName=ms-vscode.azurecli)
+- [Azure Developer CLI](https://marketplace.visualstudio.com/items?itemName=ms-azuretools.azure-dev)
+- [GitHub Copilot for Azure](https://marketplace.visualstudio.com/items?itemName=ms-azuretools.vscode-azure-github-copilot)
+- [AZ CLI](https://learn.microsoft.com/en-us/cli/azure/install-azure-cli?view=azure-cli-latest) and [AZD CLI](https://learn.microsoft.com/en-us/azure/developer/azure-developer-cli/install-azd?tabs=winget-windows%2Cbrew-mac%2Cscript-linux&pivots=os-windows)
+- Create a GH Token: [Personal Access Tokens (Classic)](https://github.com/settings/tokens)
 
 ## 📝 Notes
 
