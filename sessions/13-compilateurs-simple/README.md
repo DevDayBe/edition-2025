@@ -20,17 +20,10 @@ Les compilateurs vous semblent mystérieux? Cette session décortique le fonctio
 ## 📚 Ressources
 
 ### Slides
-- Slides: `[À ajouter par le speaker]`
-
-### Démos & Code
-- Demo: `[À ajouter par le speaker]`
+- Slides: https://github.com/Pvlerick/DevDay2025/blob/main/slides.md
 
 ### Références & Articles
-- Reference: [À ajouter par le speaker]
-
-## 📝 Notes
-
-[Notes du speaker sur la présentation]
+- Reference: https://craftinginterpreters.com/
 
 ---
 
