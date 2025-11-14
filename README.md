@@ -185,7 +185,7 @@ Vous trouvez une erreur ou vous avez une suggestion ? Consultez `CONTRIBUTING.md
 
 ## 📞 Contact & Support
 
-- **Questions d'organisation**: contact@devday.be
+- **Questions d'organisation**: team@devday.be
 - **Issues/Bugs du repository**: Ouvrez une [GitHub Issue](https://github.com/DevDayBe/edition-2025/issues)
 - **Site officiel**: https://devday.be
 
@@ -196,3 +196,29 @@ Vous trouvez une erreur ou vous avez une suggestion ? Consultez `CONTRIBUTING.md
 Un grand merci à tous les speakers, organisateurs et contributeurs qui font de DevDay 2025 un événement exceptionnel !
 
 **Made with ❤️ for the Belgian Developer Community**
+
+---
+
+## 🎉 Remerciements à nos sponsors
+
+Nous tenons à exprimer notre profonde gratitude envers nos sponsors pour leur soutien inestimable à DevDay 2025. Grâce à eux, cet événement est possible !
+
+### 🥇 Sponsors Gold
+- [Wavenet](https://www.wavenet.be/)
+
+### 🥈 Sponsors Silver
+- [Journée Agile](https://www.journeeagile.be/)
+- [Microsoft](https://www.microsoft.com/fr-be)
+- [Oniryx](https://www.oniryx.be/)
+
+### 🤝 Partenaires
+- [B&B Hotels](https://www.hotel-bb.com/fr/hotel/mons-gare)
+- [Birdit](http://www.birdit.be/)
+- [DevApps](http://www.devapps.be/)
+- [Salon du Livre de Wallonie](https://monslivre.be/salon-du-livre-de-wallonie/)
+- [Sense of Tech](https://www.senseof.tech/)
+- [Sparkle](http://www.sparkle.tech/)
+
+Pour découvrir tous nos sponsors, visitez notre page dédiée : [devday.be/sponsors](https://devday.be/sponsors)
+
+---
