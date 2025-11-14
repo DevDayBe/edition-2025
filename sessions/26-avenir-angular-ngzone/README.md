@@ -3,10 +3,17 @@
 ## Speaker(s)
 
 - **Loïc Magnette**
-  - Oniryx
+  - 👨‍💻 Senior Developer
+  - [🏢 Oniryx](https://www.oniryx.be)
+  - [🌎 LinkedIn](https://www.linkedin.com/in/lomagnette/)
+  - [🦋 BlueSky](https://bsky.app/profile/lomagnette.bsky.social)
+  - [Github](https://github.com/LoMagnette)
 
 - **Simon Hock**
-  - Oniryx
+  - 👨‍💻 Senior Developer
+  - [🏢 Oniryx](https://www.oniryx.be)
+  - [🌎 LinkedIn](https://www.linkedin.com/in/simon-hock)
+  - [Github](https://github.com/simon-hock)
 
 ## Session Info
 
@@ -23,17 +30,14 @@ Explorez les évolutions futures d'Angular et son écosystème. Loïc et Simon d
 ## 📚 Ressources
 
 ### Slides
-- Slides: `[À ajouter par les speakers]`
+- [Slides](https://speakerdeck.com/magnette/le-futur-dangular-au-dela-de-ngzone): https://speakerdeck.com/magnette/le-futur-dangular-au-dela-de-ngzone
 
 ### Démos & Code
-- Demo: `[À ajouter par les speakers]`
+- [Demo](https://github.com/LoMagnette/2025-Angular-Faster-Lighter-Stronger): https://github.com/LoMagnette/2025-Angular-Faster-Lighter-Stronger
 
 ### Références & Articles
-- Angular: https://angular.io
-
-## 📝 Notes
-
-[Notes des speakers sur la présentation]
+- Angular: https://angular.dev
+- Recording de la même session à Voxxed Days Thessaloniki: https://www.youtube.com/watch?v=n9IcRKkCltc
 
 ---
 
