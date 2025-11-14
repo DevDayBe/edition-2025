@@ -20,18 +20,6 @@ Découvrez comment les principes Agile sont appliqués au Japon. Anaïs partage 
 ## 📚 Ressources
 
 ### Slides
-- Slides: `[À ajouter par le speaker]`
-
-### Démos & Code
-- Demo: `[À ajouter par le speaker]`
-
-### Références & Articles
-- Reference: [À ajouter par le speaker]
-
-## 📝 Notes
-
-[Notes du speaker sur la présentation]
-
----
+- Slides: [Conférence Japon.pdf](Conférence%20Japon.pdf)
 
 **Questions ou suggestions?** Ouvrez une [GitHub Issue](https://github.com/DevDayBe/edition-2025/issues) ou contactez directement le speaker.
