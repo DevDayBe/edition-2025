@@ -1,0 +1,22 @@
+# Normalize all text files
+* text=auto
+
+# Enforce LF for specific file types
+*.sh     text eol=lf
+*.js     text eol=lf
+*.ts     text eol=lf
+*.tsx    text eol=lf
+*.json   text eol=lf
+*.yml    text eol=lf
+*.yaml   text eol=lf
+*.md     text eol=lf
+
+*.cs       text diff=csharp
+*.cshtml   text diff=html
+*.csx      text diff=csharp
+*.sln      text eol=crlf
+*.slnx     text eol=crlf
+*.csproj   text eol=crlf
+
+# Optional: CRLF for Windows-only scripts
+*.bat    text eol=crlf

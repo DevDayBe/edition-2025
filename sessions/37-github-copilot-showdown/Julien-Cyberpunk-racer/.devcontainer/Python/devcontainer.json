@@ -1,0 +1,62 @@
+{
+  "name": "Python Environment",
+  "image": "mcr.microsoft.com/devcontainers/python:3.12-bookworm",
+  "features": {
+    "azure-cli": {
+      "version": "latest"
+    },
+
+    "ghcr.io/jlaundry/devcontainer-features/azure-functions-core-tools:1": {
+      "version": "latest"
+    }
+  },
+  "postCreateCommand": "pip install uv",
+  "postStartCommand": "bash .devcontainer/Python/init.sh",
+
+  "containerEnv": {
+    "CODESPACE_HOST": "https://${localEnv:CODESPACE_NAME}-6274.${localEnv:GITHUB_CODESPACES_PORT_FORWARDING_DOMAIN}"
+  },
+
+  "forwardPorts": [8000, 6277, 6274],
+  "customizations": {
+    "vscode": {
+      "extensions": [
+        // Azure Functions Extension Pack
+        "ms-vscode.vscode-node-azure-pack",
+        "azurite.azurite",
+
+        //Python Specifics
+        "ms-python.python",
+        "ms-python.debugpy",
+        "donjayamanne.python-extension-pack",
+        "ms-python.vscode-pylance",
+        "charliermarsh.ruff",
+        "ms-python.bandit",
+        "ms-python.debugpy",
+
+        // Dotnet related extensions
+        "ms-dotnettools.csharp",
+        "ms-dotnettools.csdevkit",
+
+        // Terraform
+        "hashicorp.terraform",
+
+        // Markdown
+        "shd101wyy.markdown-preview-enhanced",
+        "yzane.markdown-pdf",
+
+        //Testing
+        "humao.rest-client"
+      ],
+      "settings": {
+        "editor.defaultFormatter": "charliermarsh.ruff",
+        "editor.formatOnSave": true,
+        "editor.codeActionsOnSave": {
+          "source.organizeImports": true
+        },
+        "python.languageServer": "Pylance"
+      }
+    }
+  },
+  "containerUser": "vscode"
+}
