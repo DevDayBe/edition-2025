@@ -20,13 +20,15 @@ Découvrez FluentUI Blazor et comment créer des applications .NET avec un desig
 ## 📚 Ressources
 
 ### Slides
-- Slides: `[À ajouter par le speaker]`
+- Slides: [Video](https://youtu.be/aO1rvv6EMTw)
 
 ### Démos & Code
-- Demo: `[À ajouter par le speaker]`
+- Demo: [Video](https://youtu.be/aO1rvv6EMTw)
+- Source: [GitHub](https://github.com/dvoituron/devday25-fluentui) - Utiliser les branches pour suivres les étapes de la démo.
 
 ### Références & Articles
 - FluentUI Blazor: https://www.fluentui-blazor.net
+- FluentUI Blazor v5: https://fluentui-blazor-v5.azurewebsites.net/
 
 ## 📝 Notes
 
